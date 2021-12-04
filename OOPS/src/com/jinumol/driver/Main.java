@@ -1,7 +1,11 @@
-package com.jinumol.oops;
+package com.jinumol.driver;
+
+import com.jinumol.oops.AdminDepartment;
+import com.jinumol.oops.HrDepartment;
+import com.jinumol.oops.SuperDepartment;
+import com.jinumol.oops.TechDepartment;
 
 public class Main {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		SuperDepartment ad=new AdminDepartment();

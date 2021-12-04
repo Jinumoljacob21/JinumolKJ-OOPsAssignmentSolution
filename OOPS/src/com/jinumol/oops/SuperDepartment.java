@@ -1,6 +1,6 @@
 package com.jinumol.oops;
 
-class SuperDepartment{
+ public class SuperDepartment{
 	public String departmentName() {
 		return "Super Department";
 		

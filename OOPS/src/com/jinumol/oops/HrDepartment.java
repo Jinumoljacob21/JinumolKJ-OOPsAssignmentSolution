@@ -1,6 +1,6 @@
 package com.jinumol.oops;
 
- class HrDepartment extends SuperDepartment {
+  public class HrDepartment extends SuperDepartment {
 	 public String departmentName() {
 			return "HR Department";
 			
